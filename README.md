@@ -15,7 +15,7 @@ Jestem...
 |Strona o stronach|Prosta strona o stronach|https://github.com/BartoszMerito/Zadania|
 ## Statystyki
 ![Moje statystyki](https://github-readme-stats.vercel.app/api?username=BartoszMerito&show_icons=true&theme=dracula)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BartoszMerito&stats_format=bytes)
 ### Kontakt
 [![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge)](mailto:gdx178842@student.gdansk.merito.pl)
 
