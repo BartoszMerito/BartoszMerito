@@ -11,6 +11,8 @@ Jestem...
 |Projekt|Opis|Link|
 |-------|---|----|
 |Wirtualne ZOO|Prosta strona z wirtualnym ZOO|https://github.com/BartoszMerito/WSB-projekt|
+|Merito Brain Damage|Prosta strzelanka|https://github.com/lukasus55/Merito-Brain-Damage|
+|Strona o stronach|Prosta strona o stronach|https://github.com/BartoszMerito/Zadania|
 ## Statystyki
 ![Moje statystyki](https://github-readme-stats.vercel.app/api?username=BartoszMerito&show_icons=true&theme=dracula)
 
